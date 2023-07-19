@@ -1,0 +1,443 @@
+@prefix :      <http://127.0.0.1:3333/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix wdt:   <http://www.wikidata.org/prop/direct/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+:60     :answer        "José Fernandes Pinto Alpoim" ;
+        :textResource  "Quem foi o arquiteto de Paço Imperial?" ;
+        :topic         <http://www.wikidata.org/entity/Q3361206> .
+
+:32     :answer        "João VI of Portugal" ;
+        :textResource  "Quem fundou Academia Museu Nacional?" ;
+        :topic         <http://www.wikidata.org/entity/Q1850416> .
+
+:5      :answer        "Laranjeiras" ;
+        :textResource  "Palácio das Laranjeiras foi nomeado em homenagem a o que?" ;
+        :topic         <http://www.wikidata.org/entity/Q10343955> .
+
+:73     :answer        "2009" ;
+        :textResource  "Quando Arquivo Nacional parou de funcionar?" ;
+        :topic         <http://www.wikidata.org/entity/Q61892915> .
+
+:45     :answer        "Teatro Municipal" ;
+        :textResource  "Qual organização ocupa o Teatro Municipal do Rio de Janeiro?" ;
+        :topic         <http://www.wikidata.org/entity/Q1968538> .
+
+:17     :answer        "Mário Rodrigues Filho" ;
+        :textResource  "Estádio do Maracanã foi nomeado em homenagem a o que?" ;
+        :topic         <http://www.wikidata.org/entity/Q155174> .
+
+:58     :answer        "Oscar Niemeyer" ;
+        :textResource  "Quem foi o arquiteto de Sambódromo da Marquês de Sapucaí?" ;
+        :topic         <http://www.wikidata.org/entity/Q281521> .
+
+<http://www.wikidata.org/entity/Q7691936>
+        rdfs:label  "Teatro O Tablado" ;
+        :topicOf    :79 .
+
+<http://www.wikidata.org/entity/Q5411113>
+        rdfs:label  "Real Gabinete Português de Leitura" ;
+        :topicOf    :70 , :69 , :68 .
+
+<http://www.wikidata.org/entity/Q155174>
+        rdfs:label  "Estádio do Maracanã" ;
+        :topicOf    :23 , :20 , :15 , :18 , :27 , :24 , :21 , :19 , :16 , :25 , :28 , :22 , :14 , :17 , :26 .
+
+:11     :answer        "Neoclassical architecture" ;
+        :textResource  "Qual o estilo arquitetônico de Palácio do Catete?" ;
+        :topic         <http://www.wikidata.org/entity/Q1142766> .
+
+<http://www.wikidata.org/entity/Q337224>
+        rdfs:label  "Academia Brasileira de Letras" ;
+        :topicOf    :66 , :65 , :64 , :63 .
+
+:80     :answer        "1810" ;
+        :textResource  "Quando ocorreu a origem de Biblioteca Nacional do Brasil?" ;
+        :topic         <http://www.wikidata.org/entity/Q948882> .
+
+:52     :answer        "1943" ;
+        :textResource  "Qual a data oficial de abertura de Edifício Gustavo Capanema?" ;
+        :topic         <http://www.wikidata.org/entity/Q2598551> .
+
+<http://www.wikidata.org/entity/Q10343955>
+        rdfs:label  "Palácio das Laranjeiras" ;
+        :topicOf    :5 , :4 , :3 .
+
+:24     :answer        "2013 FIFA Confederations Cup" ;
+        :textResource  "Qual foi um evento significativo de Estádio do Maracanã em 2013?" ;
+        :topic         <http://www.wikidata.org/entity/Q155174> .
+
+<http://www.wikidata.org/entity/Q281521>
+        rdfs:label  "Sambódromo da Marquês de Sapucaí" ;
+        :topicOf    :59 , :58 .
+
+:65     :answer        "Ad immortalitatem" ;
+        :textResource  "Qual o lema de Academia Brasileira de Letras?" ;
+        :topic         <http://www.wikidata.org/entity/Q337224> .
+
+:37     :answer        "180000" ;
+        :textResource  "Quantos visitantes por ano há em Museu Nacional?" ;
+        :topic         <http://www.wikidata.org/entity/Q1850416> .
+
+<http://www.wikidata.org/entity/Q61892915>
+        rdfs:label  "Arquivo Nacional" ;
+        :topicOf    :75 , :74 , :73 .
+
+:78     :answer        "Oswaldo Cruz" ;
+        :textResource  "Centro Municipal de Saúde Oswaldo Cruz foi nomeado em homenagem a o que?" ;
+        :topic         <http://www.wikidata.org/entity/Q67352746> .
+
+:31     :answer        "Alexander Kellner" ;
+        :textResource  "Quem é o diretor de Museu Nacional?" ;
+        :topic         <http://www.wikidata.org/entity/Q1850416> .
+
+:72     :answer        "1908" ;
+        :textResource  "Quando ocorreu a origem de Forte de Copacabana?" ;
+        :topic         <http://www.wikidata.org/entity/Q5470982> .
+
+:4      :answer        "1914" ;
+        :textResource  "Quando ocorreu a origem de Palácio das Laranjeiras?" ;
+        :topic         <http://www.wikidata.org/entity/Q10343955> .
+
+<http://www.wikidata.org/entity/Q3813706>
+        rdfs:label  "Palácio Guanabara" ;
+        :topicOf    :67 .
+
+:44     :answer        "2361" ;
+        :textResource  "Quando a capacidade máxima de lotação de Teatro Municipal do Rio de Janeiro?" ;
+        :topic         <http://www.wikidata.org/entity/Q1968538> .
+
+<http://www.wikidata.org/entity/Q1142766>
+        rdfs:label  "Palácio do Catete" ;
+        :topicOf    :13 , :12 , :11 , :10 .
+
+:16     :answer        "87101" ;
+        :textResource  "Qual a capacidade máxima de lotação de Estádio do Maracanã?" ;
+        :topic         <http://www.wikidata.org/entity/Q155174> .
+
+<http://www.wikidata.org/entity/Q3361206>
+        rdfs:label  "Paço Imperial" ;
+        :topicOf    :62 , :61 , :60 .
+
+:57     :answer        "Belmond" ;
+        :textResource  "Quem é dono de Copacabana Palace?" ;
+        :topic         <http://www.wikidata.org/entity/Q2637352> .
+
+:29     :answer        "Brazilian Press Association" ;
+        :textResource  "Qual organização ocupa o edifício-sede da Associação Brasileira de Imprensa?" ;
+        :topic         <http://www.wikidata.org/entity/Q18275922> .
+
+<http://www.wikidata.org/entity/Q18479573>
+        rdfs:label  "Confeitaria Colombo" ;
+        :topicOf    :30 .
+
+:10     :answer        "Carl Friedrich Gustav Waehneldt" ;
+        :textResource  "Quem foi o arquiteto de Palácio do Catete?" ;
+        :topic         <http://www.wikidata.org/entity/Q1142766> .
+
+<http://www.wikidata.org/entity/Q10344051>
+        rdfs:label  "Palácio do Itamaraty" ;
+        :topicOf    :9 , :8 .
+
+:51     :answer        "Oscar Niemeyer" ;
+        :textResource  "Quem foi o arquiteto de Edifício Gustavo Capanema?" ;
+        :topic         <http://www.wikidata.org/entity/Q2598551> .
+
+:23     :answer        "1950 FIFA World Cup" ;
+        :textResource  "Qual foi um evento significativo de Estádio do Maracanã em 1950?" ;
+        :topic         <http://www.wikidata.org/entity/Q155174> .
+
+:64     :answer        "Manuel de Oliveira Lima" ;
+        :textResource  "Quem fundou Academia Brasileira de Letras?" ;
+        :topic         <http://www.wikidata.org/entity/Q337224> .
+
+:36     :answer        "structure fire" ;
+        :textResource  "Qual foi um evento significativo de Museu Nacional?" ;
+        :topic         <http://www.wikidata.org/entity/Q1850416> .
+
+<http://www.wikidata.org/entity/Q1850416>
+        rdfs:label  "Museu Nacional" ;
+        :topicOf    :37 , :36 , :35 , :34 , :33 , :32 , :31 .
+
+:9      :answer        "neoclassicism" ;
+        :textResource  "Qual o estilo arquitetônico de Palácio do Itamaraty?" ;
+        :topic         <http://www.wikidata.org/entity/Q10344051> .
+
+:77     :answer        "1914" ;
+        :textResource  "Quando ocorreu a origem de Centro Municipal de Saúde Oswaldo Cruz?" ;
+        :topic         <http://www.wikidata.org/entity/Q67352746> .
+
+:49     :answer        "Neoclassical architecture" ;
+        :textResource  "Qual o estilo arquitetônico de Quinta da Boa Vista?" ;
+        :topic         <http://www.wikidata.org/entity/Q2500590> .
+
+<http://www.wikidata.org/entity/Q10283627>
+        rdfs:label  "Fortaleza de Nossa Senhora da Conceição (Rio de Janeiro)" ;
+        :topicOf    :2 .
+
+:30     :answer        "1894-09-17" ;
+        :textResource  "Quando ocorreu a origem de Confeitaria Colombo?" ;
+        :topic         <http://www.wikidata.org/entity/Q18479573> .
+
+:3      :answer        "eclectic architecture" ;
+        :textResource  "Qual o estilo arquitetônico de Palácio das Laranjeiras?" ;
+        :topic         <http://www.wikidata.org/entity/Q10343955> .
+
+:71     :answer        "Afonso Pena" ;
+        :textResource  "Quem encomendou a construção de Forte de Copacabana?" ;
+        :topic         <http://www.wikidata.org/entity/Q5470982> .
+
+:43     :answer        "1909" ;
+        :textResource  "Quando ocorreu a origem de Teatro Municipal do Rio de Janeiro?" ;
+        :topic         <http://www.wikidata.org/entity/Q1968538> .
+
+:15     :answer        "1950-06-16" ;
+        :textResource  "Quando ocorreu a origem de Estádio do Maracanã?" ;
+        :topic         <http://www.wikidata.org/entity/Q155174> .
+
+:56     :answer        "1923" ;
+        :textResource  "Quando ocorreu a origem de Copacabana Palace?" ;
+        :topic         <http://www.wikidata.org/entity/Q2637352> .
+
+:28     :answer        "2014 FIFA World Cup Final" ;
+        :textResource  "Qual foi um evento significativo de Estádio do Maracanã em 2014?" ;
+        :topic         <http://www.wikidata.org/entity/Q155174> .
+
+<http://www.wikidata.org/entity/Q67352746>
+        rdfs:label  "Centro Municipal de Saúde Oswaldo Cruz" ;
+        :topicOf    :78 , :77 , :76 .
+
+:69     :answer        "Tibúrcio António Craveiro" ;
+        :textResource  "Quem fundou Real Gabinete Português de Leitura?" ;
+        :topic         <http://www.wikidata.org/entity/Q5411113> .
+
+<http://www.wikidata.org/entity/Q1968538>
+        rdfs:label  "Teatro Municipal do Rio de Janeiro" ;
+        :topicOf    :45 , :44 , :43 , :42 , :41 .
+
+<http://www.wikidata.org/entity/Q1954370>
+        rdfs:label  "Museu Nacional de Belas Artes" ;
+        :topicOf    :40 , :39 , :38 .
+
+:50     :answer        "1808" ;
+        :textResource  "Quando ocorreu a origem de Quinta da Boa Vista?" ;
+        :topic         <http://www.wikidata.org/entity/Q2500590> .
+
+:22     :answer        "2014 FIFA World Cup" ;
+        :textResource  "Qual foi um evento significativo de Estádio do Maracanã em 2014?" ;
+        :topic         <http://www.wikidata.org/entity/Q155174> .
+
+:63     :answer        "Joaquim Maria Machado de Assis" ;
+        :textResource  "Quem fundou Academia Brasileira de Letras?" ;
+        :topic         <http://www.wikidata.org/entity/Q337224> .
+
+:35     :answer        "Federal University of Rio de Janeiro" ;
+        :textResource  "Qual a \"organização-pai\" de Museu Nacional?" ;
+        :topic         <http://www.wikidata.org/entity/Q1850416> .
+
+:8      :answer        "José Maria Jacinto Rebelo" ;
+        :textResource  "Quem foi o arquiteto de Palácio do Itamaraty?" ;
+        :topic         <http://www.wikidata.org/entity/Q10344051> .
+
+:76     :answer        "Luiz de Moraes Júnior" ;
+        :textResource  "Quem foi o arquiteto de Centro Municipal de Saúde Oswaldo Cruz?" ;
+        :topic         <http://www.wikidata.org/entity/Q67352746> .
+
+:48     :answer        "1926-05-06" ;
+        :textResource  "Quando ocorreu a origem de Palácio Tiradentes?" ;
+        :topic         <http://www.wikidata.org/entity/Q2048490> .
+
+<http://www.wikidata.org/entity/Q9703653>
+        rdfs:label  "Castelinho do Flamengo" ;
+        :topicOf    :82 .
+
+:2      :answer        "John V of Portugal" ;
+        :textResource  "Quem encomendou a construção de Fortaleza de Nossa Senhora da Conceição (Rio de Janeiro)?" ;
+        :topic         <http://www.wikidata.org/entity/Q10283627> .
+
+:70     :answer        "1880" ;
+        :textResource  "Quando ocorreu a origem de Real Gabinete Português de Leitura?" ;
+        :topic         <http://www.wikidata.org/entity/Q5411113> .
+
+:42     :answer        "1909" ;
+        :textResource  "Qual a data oficial de abertura de Teatro Municipal do Rio de Janeiro?" ;
+        :topic         <http://www.wikidata.org/entity/Q1968538> .
+
+:14     :answer        "1950-06-16" ;
+        :textResource  "Qual a data oficial de abertura de Estádio do Maracanã?" ;
+        :topic         <http://www.wikidata.org/entity/Q155174> .
+
+<http://www.wikidata.org/entity/Q10343986>
+        rdfs:label  "Palácio da Cidade" ;
+        :topicOf    :7 , :6 .
+
+:55     :answer        "1923" ;
+        :textResource  "Qual a data oficial de abertura de Copacabana Palace?" ;
+        :topic         <http://www.wikidata.org/entity/Q2637352> .
+
+:27     :answer        "1989 Copa América" ;
+        :textResource  "Qual foi um evento significativo de Estádio do Maracanã em 1989?" ;
+        :topic         <http://www.wikidata.org/entity/Q155174> .
+
+:68     :answer        "Neo-Manueline" ;
+        :textResource  "Qual o estilo arquitetônico de Real Gabinete Português de Leitura?" ;
+        :topic         <http://www.wikidata.org/entity/Q5411113> .
+
+:21     :answer        "2016 Summer Olympics" ;
+        :textResource  "Qual foi um evento significativo de Estádio do Maracanã 2016?" ;
+        :topic         <http://www.wikidata.org/entity/Q155174> .
+
+:62     :answer        "1743" ;
+        :textResource  "Quando ocorreu a origem de Paço Imperial?" ;
+        :topic         <http://www.wikidata.org/entity/Q3361206> .
+
+:34     :answer        "1818-06-06" ;
+        :textResource  "Quando ocorreu a origem de Museu Nacional?" ;
+        :topic         <http://www.wikidata.org/entity/Q1850416> .
+
+:7      :answer        "1950" ;
+        :textResource  "Quando ocorreu a origem de Palácio da Cidade?" ;
+        :topic         <http://www.wikidata.org/entity/Q10343986> .
+
+:75     :answer        "Brazilian National Archives" ;
+        :textResource  "Arquivo Nacional foi nomeado em homenagem a o que?" ;
+        :topic         <http://www.wikidata.org/entity/Q61892915> .
+
+:47     :answer        "eclectic architecture" ;
+        :textResource  "Qual o estilo arquitetônico de Palácio Tiradentes?" ;
+        :topic         <http://www.wikidata.org/entity/Q2048490> .
+
+:19     :answer        "Fluminense F.C." ;
+        :textResource  "Qual organização ocupa o Estádio do Maracanã?" ;
+        :topic         <http://www.wikidata.org/entity/Q155174> .
+
+:1      :answer        "modernism" ;
+        :textResource  "Qual o estilo arquitetônico de Faculdade de Arquitetura e Urbanismo da Universidade Federal do Rio de Janeiro?" ;
+        :topic         <http://www.wikidata.org/entity/Q10279339> .
+
+:41     :answer        "eclectic architecture" ;
+        :textResource  "Qual o estilo arquitetônico de Teatro Municipal do Rio de Janeiro?" ;
+        :topic         <http://www.wikidata.org/entity/Q1968538> .
+
+<http://www.wikidata.org/entity/Q2048490>
+        rdfs:label  "Palácio Tiradentes" ;
+        :topicOf    :48 , :47 , :46 .
+
+:13     :answer        "Federal Government of Brazil" ;
+        :textResource  "Quem é dono de Palácio do Catete?" ;
+        :topic         <http://www.wikidata.org/entity/Q1142766> .
+
+<http://www.wikidata.org/entity/Q2637352>
+        rdfs:label  "Copacabana Palace" ;
+        :topicOf    :57 , :56 , :55 , :54 .
+
+:82     :answer        "Gino Coppedè" ;
+        :textResource  "Quem foi o arquiteto de Castelinho do Flamengo?" ;
+        :topic         <http://www.wikidata.org/entity/Q9703653> .
+
+:54     :answer        "Joseph Gire" ;
+        :textResource  "Quem foi o arquiteto de Copacabana Palace?" ;
+        :topic         <http://www.wikidata.org/entity/Q2637352> .
+
+<http://www.wikidata.org/entity/Q2598551>
+        rdfs:label  "Edifício Gustavo Capanema" ;
+        :topicOf    :53 , :52 , :51 .
+
+:26     :answer        "2019 Copa América" ;
+        :textResource  "Qual foi um evento significativo de Estádio do Maracanã em 2019?" ;
+        :topic         <http://www.wikidata.org/entity/Q155174> .
+
+:67     :answer        "neoclassicism" ;
+        :textResource  "Qual o estilo arquitetônico de Palácio Guanabara?" ;
+        :topic         <http://www.wikidata.org/entity/Q3813706> .
+
+:39     :answer        "1937" ;
+        :textResource  "Quando ocorreu a origem de Museu Nacional de Belas Artes?" ;
+        :topic         <http://www.wikidata.org/entity/Q1954370> .
+
+<http://www.wikidata.org/entity/Q2500590>
+        rdfs:label  "Quinta da Boa Vista" ;
+        :topicOf    :50 , :49 .
+
+:20     :answer        "Rio de Janeiro" ;
+        :textResource  "Quem é dono de Estádio do Maracanã?" ;
+        :topic         <http://www.wikidata.org/entity/Q155174> .
+
+<http://www.wikidata.org/entity/Q18275922>
+        rdfs:label  "edifício-sede da Associação Brasileira de Imprensa" ;
+        :topicOf    :29 .
+
+:61     :answer        "baroque architecture" ;
+        :textResource  "Qual o estilo arquitetônico de Paço Imperial?" ;
+        :topic         <http://www.wikidata.org/entity/Q3361206> .
+
+:33     :answer        "1818-06-06" ;
+        :textResource  "Qual a data oficial de abertura de Museu Nacional?" ;
+        :topic         <http://www.wikidata.org/entity/Q1850416> .
+
+:6      :answer        "Georgian architecture" ;
+        :textResource  "Qual o estilo arquitetônico de Palácio da Cidade?" ;
+        :topic         <http://www.wikidata.org/entity/Q10343986> .
+
+:74     :answer        "1838" ;
+        :textResource  "Quando ocorreu a origem de Arquivo Nacionall?" ;
+        :topic         <http://www.wikidata.org/entity/Q61892915> .
+
+:46     :answer        "Archimedes Memória" ;
+        :textResource  "Quem foi o arquiteto de Palácio Tiradentes?" ;
+        :topic         <http://www.wikidata.org/entity/Q2048490> .
+
+:18     :answer        "Clube de Regatas do Flamengo" ;
+        :textResource  "Qual organização ocupa o Estádio do Maracanã?" ;
+        :topic         <http://www.wikidata.org/entity/Q155174> .
+
+:59     :answer        "Rio de Janeiro" ;
+        :textResource  "Quem é dono de Sambódromo da Marquês de Sapucaí?" ;
+        :topic         <http://www.wikidata.org/entity/Q281521> .
+
+<http://www.wikidata.org/entity/Q5470982>
+        rdfs:label  "Forte de Copacabana" ;
+        :topicOf    :72 , :71 .
+
+<http://www.wikidata.org/entity/Q10279339>
+        rdfs:label  "Faculdade de Arquitetura e Urbanismo da Universidade Federal do Rio de Janeiro" ;
+        :topicOf    :1 .
+
+:40     :answer        "135726" ;
+        :textResource  "Quantos visitantes por ano há em Museu Nacional de Belas Artes?" ;
+        :topic         <http://www.wikidata.org/entity/Q1954370> .
+
+:12     :answer        "1867" ;
+        :textResource  "Quando ocorreu a origem de Palácio do Catete?" ;
+        :topic         <http://www.wikidata.org/entity/Q1142766> .
+
+:81     :answer        "Ministry of Culture of Brazil" ;
+        :textResource  "Qual a \"organização-pai\" de Biblioteca Nacional do Brasil?" ;
+        :topic         <http://www.wikidata.org/entity/Q948882> .
+
+:53     :answer        "Emílio Henrique Baumgart" ;
+        :textResource  "Quem foi o engenheiro de Edifício Gustavo Capanema?" ;
+        :topic         <http://www.wikidata.org/entity/Q2598551> .
+
+:25     :answer        "2007 Pan American Games" ;
+        :textResource  "Qual foi um evento significativo de Estádio do Maracanã em 2007?" ;
+        :topic         <http://www.wikidata.org/entity/Q155174> .
+
+:66     :answer        "1896" ;
+        :textResource  "Quando ocorreu a origem de Academia Brasileira de Letras?" ;
+        :topic         <http://www.wikidata.org/entity/Q337224> .
+
+:38     :answer        "1937-01-13" ;
+        :textResource  "Qual a data oficial de abertura deMuseu Nacional de Belas Artes?" ;
+        :topic         <http://www.wikidata.org/entity/Q1954370> .
+
+<http://www.wikidata.org/entity/Q948882>
+        rdfs:label  "Biblioteca Nacional do Brasil" ;
+        :topicOf    :81 , :80 .
+
+:79     :answer        "1951" ;
+        :textResource  "Quando ocorreu a origem de Teatro O Tabladol?" ;
+        :topic         <http://www.wikidata.org/entity/Q7691936> .
